@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security problem
+    url: https://github.com/hyya-dev/hyya-prayer-pal-docs/blob/main/SECURITY.md
+    about: Privately, please not as a public issue.
+  - name: Download hYYa Prayer Pal
+    url: https://hyya.com/hyya-prayer-pal.html
+    about: Get the app for iPhone, iPad, Apple Watch, Android and Wear OS
+  - name: Contact hYYa
+    url: https://hyya.com/contact.html
+    about: For any other question
