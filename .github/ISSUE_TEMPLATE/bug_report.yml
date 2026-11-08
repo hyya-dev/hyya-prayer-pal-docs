@@ -6,7 +6,7 @@ body:
     id: what
     attributes:
       label: What happened?
-      description: What did you expect, and what happened instead?
+      description: What did you expect, and what happened instead? Issues are public, so please don't post personal details or screenshots that show them.
     validations: { required: true }
   - type: input
     id: version
