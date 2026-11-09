@@ -2,6 +2,10 @@
 
 One entry per store release, from the What's New notes. The newest is first.
 
+## 3.7.3 — November 2026
+- App Store: 9 November 2026.
+- General bug fixes and stability improvements.
+
 ## 3.7.2 — November 2026
 - Settings: a Report a Security Issue row and a Contact Support row; the rating and hYYa cards can be tapped anywhere.
 - Widgets: the temperature sits below the mascot on the medium widget and is centred on the large one.
