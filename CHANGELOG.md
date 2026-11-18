@@ -2,6 +2,18 @@
 
 One entry per store release, from the What's New notes. The newest is first.
 
+## 4.0.0 — November 2026
+- App Store: 14 November 2026. Google Play: 18 November 2026.
+- A whole new look in deep blue and gold, and a new app icon.
+- A new Home: your next prayer with a live countdown, all six times in one card.
+- Weather redesigned, with the Hijri date.
+- Mushaf view: the Quran page by page, like the printed Madani Mushaf, in the King Fahd Complex font.
+- Two pages side by side on foldables and tablets.
+- Daily Dua widget: a new dua on your Home Screen each day.
+- Selected Duas: 92 short duas in 13 themes, each with its source; save your favourites.
+- Manasik: the Talbiyah and the duas of Tawaf and Sa'i, with a pronunciation guide in Latin letters.
+- More national calculation methods and more cities.
+
 ## 3.7.3 — November 2026
 - App Store: 9 November 2026.
 - General bug fixes and stability improvements.

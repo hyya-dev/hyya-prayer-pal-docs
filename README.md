@@ -15,12 +15,12 @@
 |---|---|
 | 🕌 **Prayer times** | Six daily times for your location, with each country's own default calculation method and alerts as each prayer begins |
 | 🧭 **Qibla** | A compass to the Ka'bah, corrected from magnetic north to true north for your location, on the phone |
-| 📖 **Quran** | The Quran with translations, recitation audio and tafsir |
-| 🤲 **Duas & Azkar** | Hisn al-Muslim, the Fortress of the Muslim |
+| 📖 **Quran** | The Quran with translations, recitation audio and tafsir, and a Mushaf view page by page like the printed Madani Mushaf |
+| 🤲 **Duas & Azkar** | Hisn al-Muslim, the Fortress of the Muslim, and Selected Duas, each with its source |
 | 📿 **Tasbeeh** | A counter with a gentle tap on each count |
 | 🕋 **Hajj & Umrah** | Step-by-step guides with their sources |
 | 📅 **Islamic calendar** | Hijri dates and the year's occasions, with a day correction for local moon sighting |
-| 🌤️ **Weather and widgets** | Today's weather, and Home Screen widgets in three sizes, light and dark |
+| 🌤️ **Weather and widgets** | Today's weather, and Home Screen widgets in three sizes, light and dark, and a Daily Dua widget |
 
 60 languages. Prayer times, the Qibla and the Quran text work without a connection once your location is known.
 
