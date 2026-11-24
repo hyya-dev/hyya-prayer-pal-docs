@@ -2,6 +2,14 @@
 
 One entry per store release, from the What's New notes. The newest is first.
 
+## 4.0.1 — November 2026
+- App Store: 24 November 2026. Google Play: in review.
+- A fresh Home: your next prayer on a panel at the top, then the Qibla, the six prayer times and the Counter.
+- Weather and Counter refreshed with new backgrounds.
+- Daily Dua widget: now in medium size too; it changes at Fajr and at Maghrib, and a tap opens that dua.
+- Small widget redesigned, with the temperature in the corner.
+- General bug fixes and stability improvements.
+
 ## 4.0.0 — November 2026
 - App Store: 14 November 2026. Google Play: 18 November 2026.
 - A whole new look in deep blue and gold, and a new app icon.
