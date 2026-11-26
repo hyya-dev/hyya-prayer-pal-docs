@@ -2,8 +2,15 @@
 
 One entry per store release, from the What's New notes. The newest is first.
 
+## 4.0.2 — November 2026
+- App Store: 26 November 2026. Google Play: in review.
+- iPad: Calendar, Library and Settings now share Home's layout, with titles at the same height and cards in the same column.
+- Hisn al-Muslim: a dua link or a Daily Dua widget tap now opens right at that dua, even the first time.
+- Selected Duas: long Arabic duas no longer run under the favourite heart.
+- General bug fixes and stability improvements.
+
 ## 4.0.1 — November 2026
-- App Store: 24 November 2026. Google Play: in review.
+- App Store: 24 November 2026. Google Play: replaced by 4.0.2 before it was published.
 - A fresh Home: your next prayer on a panel at the top, then the Qibla, the six prayer times and the Counter.
 - Weather and Counter refreshed with new backgrounds.
 - Daily Dua widget: now in medium size too; it changes at Fajr and at Maghrib, and a tap opens that dua.
